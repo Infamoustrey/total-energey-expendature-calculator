@@ -1,0 +1,10 @@
+C:\Users\treyb\dev\TDEE Calculator\bin\Release\TDEE Calculator.exe.config
+C:\Users\treyb\dev\TDEE Calculator\bin\Release\TDEE Calculator.exe
+C:\Users\treyb\dev\TDEE Calculator\bin\Release\TDEE Calculator.pdb
+C:\Users\treyb\dev\TDEE Calculator\obj\Release\TDEE Calculator.csproj.AssemblyReference.cache
+C:\Users\treyb\dev\TDEE Calculator\obj\Release\TDEE_Calculator.Form1.resources
+C:\Users\treyb\dev\TDEE Calculator\obj\Release\TDEE_Calculator.Properties.Resources.resources
+C:\Users\treyb\dev\TDEE Calculator\obj\Release\TDEE Calculator.csproj.GenerateResource.cache
+C:\Users\treyb\dev\TDEE Calculator\obj\Release\TDEE Calculator.csproj.CoreCompileInputs.cache
+C:\Users\treyb\dev\TDEE Calculator\obj\Release\TDEE Calculator.exe
+C:\Users\treyb\dev\TDEE Calculator\obj\Release\TDEE Calculator.pdb
